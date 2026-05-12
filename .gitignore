@@ -1,0 +1,43 @@
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Excel output files
+*.xlsx
+*.xls
+~$*
+
+# Android XML dumps
+live_page_source.xml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
